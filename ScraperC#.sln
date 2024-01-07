@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScraperC#", "ScraperC#\ScraperC#.csproj", "{89D3305E-6830-4FF4-816C-96A986A047EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D3305E-6830-4FF4-816C-96A986A047EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D3305E-6830-4FF4-816C-96A986A047EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D3305E-6830-4FF4-816C-96A986A047EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D3305E-6830-4FF4-816C-96A986A047EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C209FF86-6C9A-4E73-8815-957F9525DCAB}
+	EndGlobalSection
+EndGlobal
